@@ -1,0 +1,5 @@
+cryptography==39.0.0
+pyasn1==0.4.8
+pycparser==2.21
+pycryptodome==3.17
+rsa==4.9
