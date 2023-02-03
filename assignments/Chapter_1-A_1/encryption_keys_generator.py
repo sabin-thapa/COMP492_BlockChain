@@ -1,5 +1,4 @@
 from Crypto.PublicKey import RSA
-from Crypto.Cipher import PKCS1_OAEP
 
 def keys_generator():
     key_for_server = RSA.generate(1024)
